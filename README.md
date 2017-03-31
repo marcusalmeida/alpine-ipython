@@ -1,2 +1,2 @@
-# docker-ipython
+# alpine-ipython
 Docker container for IPython
